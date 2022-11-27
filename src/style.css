@@ -1,3 +1,11 @@
 .form-fieled {
   display: block;
 }
+
+.love_cats {
+  display: inline;
+}
+
+legend {
+  padding: 3px 6px;
+}
