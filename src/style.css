@@ -1,13 +1,11 @@
 .form-fieled {
   display: block;
-}
-
-.love_cats {
-  display: inline;
+  margin-top: 10px;
 }
 
 legend {
   padding: 3px 6px;
+  margin: 10px;
 }
 
 .personal-information,
