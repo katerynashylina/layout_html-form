@@ -9,3 +9,10 @@
 legend {
   padding: 3px 6px;
 }
+
+.personal-information,
+.your_facts,
+.registration,
+.additional_info {
+  margin: 20px;
+}
