@@ -3,13 +3,6 @@
   margin-top: 10px;
 }
 
-legend {
-  margin: 10px;
-}
-
-.personal-information,
-.your_facts,
-.registration,
-.additional_info {
-  margin: 20px;
+.block {
+  margin-bottom: 20px;
 }
